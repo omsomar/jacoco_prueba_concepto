@@ -115,7 +115,7 @@ public class Jacoco {
 
 ##### jacocoTest.java
 
-```
+```java
 public class JacocoTest {
 
 	Jacoco jacoco = new Jacoco();
