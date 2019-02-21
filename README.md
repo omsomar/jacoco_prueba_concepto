@@ -53,6 +53,7 @@ La configuración mínima para el uso de JaCoCo es configurar el las metas prepa
 
 Al tener la configuración mínima puede realizar test unitarios para una vez realizados los test, se generan los reportes. Los reportes los encuentra en `target/site/jacoco/index.html`. Al abrir en un navegador se verá un reporte similar al siguiente ejemplo, el cual se compone de todos los packages, las clases y los métodos de los cuales se han realizado los test. 
 
+<<<<<<< HEAD
 ![](jacoco5.png)
 
 ##### Primer nivel de detalle:
@@ -144,8 +145,6 @@ public class JacocoTest {
 ##### <a href="https://www.jacoco.org/jacoco/index.html">JaCoCo Oficial</a> 
 
 ##### <a href="https://automationrhapsody.com/automated-code-coverage-of-unit-tests-with-jacoco-and-mav">Automation Rhapsody</a> 
-
-
 
 
 
